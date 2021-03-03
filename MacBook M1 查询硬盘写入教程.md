@@ -1,3 +1,4 @@
+#! https://zhuanlan.zhihu.com/p/354385629
 
 ## 写在前面
 
@@ -73,7 +74,7 @@ smartctl -a disk0
 
 结果如下，里面的Percentage Used 就是损耗值，Data Units Written 就是写入量。
 
-![硬盘写入](./img/硬盘写入.png)
+![硬盘写入](./img/ypxr.png)
 
 ## 写在结尾
 
